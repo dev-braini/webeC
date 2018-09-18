@@ -29,3 +29,5 @@
 
 * [ ] 08.01.19 12:15 - 15:00 Deployment
 * [ ] 15.01.19 12:15 - 15:00 Prüfungsvorbereitung
+
+## Hausaufgaben

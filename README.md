@@ -1,5 +1,5 @@
 # Web Engineering
 
 ## Validator
-[Markup Validation Service](http://validator.w3.org)
+[Markup Validation Service](http://validator.w3.org){:target="_blank"}
 

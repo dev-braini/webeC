@@ -6,6 +6,8 @@
 ## Teacher
 [Christian Ribeaud](mailto:christian.ribeaud@fhnw.ch)
 
+[GitHub-Repo](https://github.com/ribeaud/WebEngineering)
+
 ## Lecture Slides
 * [Lecture 1](https://ribeaud.github.io/WebEngineering/lectures/1)
 

@@ -11,8 +11,8 @@
 
 ##Storybook
 * [x] 18.09.18 12:15 - 15:00 HTML
-* [ ] 25.09.18 12:15 - 15:00 CSS
-* [ ] 02.10.18 12:15 - 15:00 Grails, Web, MVC, Test
+* [x] 25.09.18 12:15 - 15:00 CSS
+* [x] 02.10.18 12:15 - 15:00 Grails, Web, MVC, Test
 * [ ] 09.10.18 12:15 - 15:00 GSP, Template, Taglib, Layout
 * [ ] 16.10.18 12:15 - 15:00 Javascript
 * [ ] 23.10.18 12:15 - 15:00 Consolidation training
